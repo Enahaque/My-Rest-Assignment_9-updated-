@@ -36,3 +36,116 @@
     transform: rotate(360deg);
   }
 }
+
+/*
+.product{
+  background-color: lightpink;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+  font-variant: small-caps;
+  color:white;
+}
+*/
+
+/* .btn{
+  background-color:lightpink;
+  border: 1px solid yellow;
+  border-radius: 15px;
+  padding: 25px;
+  font-size: 30px;
+  color:whitesmoke;
+} */
+
+.count{
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+.btn{
+  background-color: lightpink;
+  border: 1px solid green;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 15px;
+  color:whitesmoke;
+  font-size: 30px;
+}
+.heading{
+  background-color: lightpink;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid yellow;
+  border-radius: 15px;
+}
+
+.display{
+  background-color:lightgreen;
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid greenyellow;
+  border-radius: 15px;
+  gap:5px;
+  
+}
+
+.userdetail{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+
+.commentbody{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.comment{
+  background-color:lightcoral;
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid greenyellow;
+  border-radius: 15px;
+  gap:5px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.countries h1{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: honeydew;
+  border:1px solid lightcoral;
+  padding: 15px;
+  border-radius: 15px;
+}
+.countries-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.country{
+  border:1px solid lightcoral;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: lightpink;
+  margin: 15px;
+}
+.country h3{
+  font-family: 'Courier New', Courier, monospace;
+}
+.country img{
+  width: 250px;
+  border: 1px solid greenyellow;
+  border-radius: 15px;
+
+}
+
+.posts{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+
+.post{
+  border:1px solid lightcoral;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: lightpink;
+  margin: 15px;
+}
