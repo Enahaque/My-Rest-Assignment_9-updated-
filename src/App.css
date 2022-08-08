@@ -115,6 +115,7 @@
   border:1px solid lightcoral;
   padding: 15px;
   border-radius: 15px;
+  margin: 15px;
 }
 .countries-container{
   display: grid;
